@@ -36,9 +36,9 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://www.codechef.com/users/adipatkar_22" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg" alt="adityapatkar_" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/aditya-patkar-b3361719b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="adityapatkar_" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/adityapatkar22" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="adityapatkar_" height="30" width="40" /></a>
+
+<a href="https://www.linkedin.com/in/pratik-barai/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="adityapatkar_" height="30" width="40" /></a>
+
 </p>
 
 
