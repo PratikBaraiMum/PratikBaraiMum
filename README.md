@@ -1,16 +1,15 @@
-### Hi there 👋
 
-<!--
-**PratikBaraiMum/PratikBaraiMum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Pratik Barai</h1>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on [MRI_SCANS_RESEARCH_PAPER]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 Want to know more? Check out my [portfolio](https://www.pratikbarai.ml)
+
+- 🌱 I’m currently exploring **Machine Learning**
+
+- 💬 Ask me about **JavaScript and Python**
+
+- 📫 How to reach me **pratikbarai123@gmail.com**
+
+
+
